@@ -1,1 +1,1 @@
-# Text-effect
+# Awesome Text Effect design
